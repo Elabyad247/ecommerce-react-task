@@ -14,7 +14,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route
-            exact_path="/ecommerce-react-task"
+            path="/"
             element={
               <>
                 <Slider />
